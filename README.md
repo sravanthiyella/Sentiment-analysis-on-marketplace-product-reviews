@@ -8,4 +8,5 @@ Sentiment analysis on marketplace product reviews using NLP and Logistic Regress
 - Evaluated using Accuracy & Classification Report
 - Built a live prediction function for any new review
 
-🛠️ Tech Stack: Python, Pandas, NumPy, Scikit-learn, NLTK, TF-IDF
+> 💡 If you want a real dataset link to add to your project, use:
+> 🔗 https://www.kaggle.com/datasets/bittlingmayer/amazonreviews
